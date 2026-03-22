@@ -1,6 +1,6 @@
 # DevOps Lab Server
 
-A personal DevOps project demonstrating Linux administration, Bash scripting, monitoring, reverse proxy configuration, and containerized services with Docker Compose.
+A personal DevOps project demonstrating Linux administration, Bash scripting, monitoring, reverse proxy configuration and containerized services with Docker Compose.
 
 ## Features
 - Linux server administration via SSH and systemd
