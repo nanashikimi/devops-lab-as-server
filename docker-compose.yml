@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  app:
+    build: ./app
+    container_name: devops-lab-app
+    ports:
+      - "8000:8000"
+
+  nginx:
+    build: ./nginx
+    container_name: devops-lab-nginx
+    ports:
+      - "8080:80"
+    depends_on:
+      - app
