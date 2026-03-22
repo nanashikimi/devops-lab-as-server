@@ -5,7 +5,7 @@ A personal DevOps project demonstrating Linux administration, Bash scripting, mo
 ## Features
 - Linux server administration via SSH and systemd
 - Bash backup script with automatic cleanup
-- HTTP health check monitoring script
+- HTTP functionality monitoring script
 - Python-based HTTP service
 - nginx as reverse proxy
 - Multi-container setup with Docker Compose
